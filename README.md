@@ -12,3 +12,6 @@ Extraction of video frames -> Calculation of differences -> creating clusters ba
   - extracting the frame with optimal brightness, contrast, and least amount of Blur (`using laplacian score`) from the cluster.
 
 We will follow ahead with Time Series Analysis ,LSTM , and other Machine Learning pipelines for extracting the key frames from a video.
+
+## Sample video results
+<img width="1745" height="1430" alt="image" src="https://github.com/user-attachments/assets/c23563b7-182c-4238-86d0-42a522ba61b6" />
